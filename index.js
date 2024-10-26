@@ -8,8 +8,8 @@ function calc() {
     //let lblOutput = document.getElementById("lblOutput");
     //let ans = eval(displayText);
     //lblOutput.innerHTML = ans;
-    alert(ans);
-    let ans = 0;
+    //alert(ans);
+    let ans;
     if (operator == "+") {
         ans = number01 + number02;
     } else if (operator == "-") {
