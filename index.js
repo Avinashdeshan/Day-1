@@ -8,7 +8,7 @@ function calc() {
     //let lblOutput = document.getElementById("lblOutput");
     //let ans = eval(displayText);
     //lblOutput.innerHTML = ans;
-    //alert(ans);
+    alert(ans);
     let ans = 0;
     if (operator == "+") {
         ans = number01 + number02;
